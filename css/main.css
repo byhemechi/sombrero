@@ -3,6 +3,8 @@ body {
     width: 100%;
     height: 100%;
     overflow: hidden;
+    font-family: sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://static-cdn.jtvnw.net/jtv_user_pictures/4ccf5878-850e-418d-ae7e-0dc88782bd86-profile_banner-480.png) center / cover  , #100e15;
     margin: 0;
 }
 
@@ -28,7 +30,7 @@ aside {
     background: #EC2A1D;
     width: 50px;
     height: 100%;
-    float: left
+    float: left;
 }
 
 #logo, #sub, #dono, #twitch {
@@ -62,4 +64,35 @@ aside {
 
 aside path {
     fill: #fff;
+}
+
+.offline #vid {
+    display: none;
+}
+
+#offline {
+    display: none;
+    float: left;
+    position: relative;
+    color: #eee;
+    padding: 64px;
+    font-size: 32px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#offline big {
+    font-size: 128px;
+    background: #ec2a1d;
+    color: #fff;
+    padding: 0 20px;
+}
+
+#offline span {
+    margin: 30px;
+    display: block
+}
+
+.offline #offline {
+    display: block;
 }
