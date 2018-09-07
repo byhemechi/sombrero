@@ -1,0 +1,64 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+main {
+    height: 100%;
+    margin: 0;
+}
+
+#vid {
+    width: calc(100% - 350px);
+    height: 100%
+}
+
+#chat {
+    width: 300px;
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    float: right;
+}
+
+aside {
+    background: #EC2A1D;
+    width: 50px;
+    height: 100%;
+    float: left
+}
+
+#logo, #sub, #dono, #twitch {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#logo {
+    padding: 0;
+}
+
+#twitch {
+    background: #392E5C;
+    padding: 5px;
+}
+
+#sub {
+    background: #14B866;
+}
+
+#sub svg {
+    width: 40px;
+}
+
+#dono {
+    background: #0085FF
+}
+
+aside path {
+    fill: #fff;
+}

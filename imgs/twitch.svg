@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="tw-animated-glitch-logo__svg"
+   overflow="visible"
+   width="30px"
+   height="30px"
+   version="1.1"
+   viewBox="0 0 30 30"
+   x="0px"
+   y="0px"
+   id="svg12"
+   sodipodi:docname="servo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="776"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <g
+     class="tw-animated-glitch-logo__body tw-animated-glitch-logo__body--mouse-leave"
+     id="g10"
+     style="fill:#ffffff">
+    <path
+       d="M4,7 L5.56799,3 L27,3 L27,18 L21,24 L16,24 L12.88599,27 L9,27 L9,24 L4,24 L4,7 Z M21,20 L25,16 L25,5 L8,5 L8,20 L12,20 L12,23 L15,20 L21,20 Z"
+       id="path2"
+       style="fill:#ffffff" />
+    <g
+       class="tw-animated-glitch-logo__eyes tw-animated-glitch-logo__eyes--mouse-leave"
+       id="g8"
+       style="fill:#ffffff">
+      <polygon
+         class="tw-animated-glitch-logo__right-eye"
+         points="21 9 19 9 19 15 21 15"
+         id="polygon4"
+         style="fill:#ffffff" />
+      <polygon
+         class="tw-animated-glitch-logo__left-eye"
+         points="16 9 14 9 14 15 16 15"
+         id="polygon6"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
